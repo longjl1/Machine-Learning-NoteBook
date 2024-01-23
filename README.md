@@ -1,8 +1,11 @@
 ---
 description: This page will briefly describe the Fundamental Knowledge about ML Model.
+cover: >-
+  https://images.unsplash.com/photo-1569144157591-f9a369ed0e6d?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxpb3N8ZW58MHx8fHwxNjQ5NTQzNzUy&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
-# 💻 Machine Learning Model
+# 🧠 Machine Learning Introduction
 
 ### &#x20; <mark style="background-color:purple;">What is MLM?</mark>
 
@@ -26,6 +29,20 @@ A scenario of image recognition
 
 ### Different types of functions
 
-**Regression**: The output is a scalar. 输出是一个数值。
+**Regression**: The output is a scalar (输出是一个数值).
 
 **Classification**: Give options (classes), the function outputs the correct one.
+
+
+
+### 预测
+
+![e.g. Unknown Parameters](<.gitbook/assets/Screen Shot 2022-04-09 at 4.15.06 PM.png>)
+
+$$
+b+wx_{1}=y
+$$
+
+
+
+**hyperparemeter** 是指需要自己设定的一系列参数
